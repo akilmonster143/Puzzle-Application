@@ -36,16 +36,13 @@ Users are prompted to log in if they have registered for a user or admin profile
 
 ## Admin Login
 
-#### Admin email
-akil.paidi@gmail.com
-
-#### Admin Password
-a
+DETAILS ARE MENTIONED IN GOOGLE FORM
+IF YOU WANT DETAILS PING ME
 
 #### Admin Signup 
-Admins can register with a secret key and check user game statistics.
+Admins can login with only specific details and check user game statistics.
 
-![Screenshot (57)](https://user-images.githubusercontent.com/89410678/232336952-07ec844d-69e1-4898-8980-b1de40c19deb.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/89410678/232357661-bd7795f5-fea1-46f9-a03e-a010197c16eb.png)
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/89410678/232337014-e6ec9735-f134-4a00-9f65-acdd64c53ad9.png)
 
